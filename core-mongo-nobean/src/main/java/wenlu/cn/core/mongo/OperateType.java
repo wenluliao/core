@@ -1,4 +1,4 @@
-package wenlu.cn.blog.mongo;
+package wenlu.cn.core.mongo;
 
 /**
  * explain mongo操作类型

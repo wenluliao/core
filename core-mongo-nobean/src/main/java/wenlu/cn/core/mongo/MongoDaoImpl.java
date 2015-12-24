@@ -1,4 +1,4 @@
-package wenlu.cn.blog.mongo;
+package wenlu.cn.core.mongo;
 
 import com.alibaba.fastjson.JSONArray;
 import com.mongodb.DB;

@@ -1,4 +1,4 @@
-package wenlu.cn.blog.mongo;
+package wenlu.cn.core.mongo;
 
 import java.net.UnknownHostException;
 import java.util.ArrayList;
